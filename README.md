@@ -14,3 +14,9 @@
 
 [https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision](https://en.wikipedia.org/wiki/Bag-of-words_model_in_computer_vision)
 [https://towardsdatascience.com/bag-of-visual-words-in-a-nutshell-9ceea97ce0fb](https://towardsdatascience.com/bag-of-visual-words-in-a-nutshell-9ceea97ce0fb)
+
+## TODO
+
+1. ~~bovw pipeline~~
+2. dog detector
+3. 

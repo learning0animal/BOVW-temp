@@ -51,7 +51,7 @@ def main():
     for descriptors in image_descriptors:
         histogram = build_histogram(descriptors, cluster_alg)
         print(histogram)
-        
+    
     
 if __name__ == '__main__':
     main()
